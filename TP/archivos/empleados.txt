@@ -1,4 +1,0 @@
-Tomas - Giordano - 1000000 - M - 110 - 8000 - Mañana - fotos/1000000-Giordano.jpg
-Nicolas - Pantano - 1000001 - M - 102 - 8000 - Mañana - fotos/1000001-Pantano.jpg
-Carlos - Castro - 1000002 - M - 103 - 8000 - Mañana - fotos/1000002-Castro.png
-PRUEBA - PRUEBA - 1000003 - M - 115 - 8000 - Tarde - fotos/1000003-PRUEBA.jpg
